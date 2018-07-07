@@ -5,7 +5,10 @@ Maintainer: NorthHopper
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: debs//Nermal.deb
-Size: 13,426
+Size: 13426
+MD5sum: C43415AAE4D1A77A31C87535C3FF50AF
+SHA1: DEEBBA101EFF85F43BB6A1D4FB92F7B1BA811672
+SHA256: 5C7CD9743E5A463470BD33726C1298941A7543CDA973BD6B5209D28CD82A671B
 Description: Nermal icon for Zeppelin!
 Name: Nermal Icon for Zeppelin
 Author: NorthHopper
