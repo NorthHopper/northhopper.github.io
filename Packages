@@ -44,3 +44,20 @@ SHA256: 36475e52bcf6e25b6fb8aea386894143462472cb3db18d6ba843f931a7d9e1e7
 Description: We Out Here Alien icon for Zeppelin!
 Name: We Out Here Alien Icon for Zeppelin
 Author: NorthHopper <hopperplaysminecraft@gmail>
+
+
+Package: com.kael.inapp
+Version: 0.0.1-2
+Section: Tweaks
+Maintainer: NorthHopper <hopperplaysminecraft@gmail>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs//inapp.deb
+Size: 2894
+MD5sum: c141e59c8de5e743184946c7bb8c51a8
+SHA1: 97bf95d6de75e0a3ef41025527b5337e768660df
+SHA256: 608ff7889fc9239559a2de8cf5ea93e7baadb9a58b85d8257e617fee2d7251ac
+Description: A tweak that allows for free in app purchases in (most) apps!
+Name: Local iAP Store 11
+Author: Unknown
+
