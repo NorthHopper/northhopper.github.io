@@ -36,8 +36,8 @@ Section: Zeppelin Icons
 Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: debs//We Out Here Alien.deb
-Size: 4276 
+Filename: debs//WeOutHereAlien.deb
+Size: 4276
 MD5sum: 4c790be04feeb3aec5c12e270e409adf
 SHA1: 24d3873cdcc5b47e2a18dd9555e52397df445f45
 SHA256: 665359eef2f833ad2c7dfd3185b842b13d80ae5185ba73bace5a8f31806b79c3
