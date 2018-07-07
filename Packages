@@ -5,13 +5,13 @@ Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: debs//Nermal.deb
-Size: 13426 
+Size: 13426
 MD5sum: c43415aae4d1a77a31c87535c3ff50af
 SHA1: deebba101eff85f43bb6a1d4fb92f7b1ba811672
 SHA256: 5c7cd9743e5a463470bd33726c1298941a7543cda973bd6b5209d28cd82a671b
-Description: Nermal icon for Zeppelin!
-Name: Nermal Icon for Zeppelin
-Author: NorthHopper <hopperplaysminecraft@gmail>
+Description: Lord Nermal icon for Zeppelin!
+Name: Lord Nermal Icon for Zeppelin
+Author: NorthHopper <hopperplaysminecraft@gmail.com>
 
 
 Package: io.github.northhopper.ripndipZeppelinIcon
@@ -21,13 +21,13 @@ Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: debs//Ripndip.deb
-Size: 12626 
+Size: 12626
 MD5sum: 77d8b938403ad72387eb998e1ac6263b
 SHA1: ca1a8580d4fce0633bbef469dc79e914af488f66
 SHA256: d7b3decd4d6b95e5052afe6cb4b030ced20aa55f08a53c05107c5d6f1566c18a
 Description: Ripndip icon for Zeppelin!
-Name: Ripndip Icon for Zeppelin
-Author: NorthHopper <hopperplaysminecraft@gmail>
+Name: Ripndip icon for Zeppelin
+Author: NorthHopper <hopperplaysminecraft@gmail.com>
 
 
 Package: io.github.northhopper.weOutHereAlienZeppelinIcon
@@ -42,14 +42,14 @@ MD5sum: 4c790be04feeb3aec5c12e270e409adf
 SHA1: 24d3873cdcc5b47e2a18dd9555e52397df445f45
 SHA256: 665359eef2f833ad2c7dfd3185b842b13d80ae5185ba73bace5a8f31806b79c3
 Description: We Out Here Alien icon for Zeppelin!
-Name: We Out Here Alien Icon for Zeppelin
-Author: NorthHopper <hopperplaysminecraft@gmail>
+Name: We Out Here Alien icon for Zeppelin
+Author: NorthHopper <hopperplaysminecraft@gmail.com>
 
 
 Package: com.kael.inapp
 Version: 0.0.1-2
 Section: Tweaks
-Maintainer: NorthHopper <hopperplaysminecraft@gmail>
+Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: debs//inapp.deb
@@ -58,5 +58,5 @@ MD5sum: c141e59c8de5e743184946c7bb8c51a8
 SHA1: 97bf95d6de75e0a3ef41025527b5337e768660df
 SHA256: 608ff7889fc9239559a2de8cf5ea93e7baadb9a58b85d8257e617fee2d7251ac
 Description: A tweak that allows for free in app purchases in (most) apps!
-Name: Local iAP Store 11
-Author: Unknown
+Name: Local IAP Store 11
+Author: Unkown
