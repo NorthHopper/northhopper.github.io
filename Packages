@@ -1,15 +1,11 @@
-Package: 
-Section: 
-Maintainer: 
+Package: io.github.northhopper.nermalZeppelinIcon
+Version: 1.0
+Section: Zeppelin Icons
+Maintainer: NorthHopper
 Architecture: iphoneos-arm
-Version: 
 Depends: mobilesubstrate
-Filename: debs//
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
-Description: 
-Name: 
-Author: name <email@email.com>
-
+Filename: debs//Nermal.deb
+Size: 13,426
+Description: Nermal icon for Zeppelin!
+Name: Nermal Icon for Zeppelin
+Author: NorthHopper
