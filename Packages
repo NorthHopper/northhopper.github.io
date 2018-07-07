@@ -28,3 +28,18 @@ SHA256: d7b3decd4d6b95e5052afe6cb4b030ced20aa55f08a53c05107c5d6f1566c18a
 Description: Ripndip icon for Zeppelin!
 Name: Ripndip Icon for Zeppelin
 Author: NorthHopper <hopperplaysminecraft@gmail>
+
+Package: io.github.northhopper.weoutherealienZeppelinIcon
+Version: 1.0
+Section: Zeppelin Icons
+Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs//We Out Here Alien.deb
+Size: 4278 
+MD5sum: a65e9ed34cfbf82fcd0dbb1973ae3377
+SHA1: bba5c6aa41a24702a1624d002ab9288da094b573
+SHA256: 36475e52bcf6e25b6fb8aea386894143462472cb3db18d6ba843f931a7d9e1e7
+Description: We Out Here Alien icon for Zeppelin!
+Name: We Out Here Alien Icon for Zeppelin
+Author: NorthHopper <hopperplaysminecraft@gmail>
