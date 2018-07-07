@@ -12,3 +12,18 @@ SHA256: 5c7cd9743e5a463470bd33726c1298941a7543cda973bd6b5209d28cd82a671b
 Description: Nermal icon for Zeppelin!
 Name: Nermal Icon for Zeppelin
 Author: NorthHopper <hopperplaysminecraft@gmail>
+
+Package: io.github.northhopper.ripndipZeppelinIcon
+Version: 1.0
+Section: Zeppelin Icons
+Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs//Ripndip.deb
+Size: 12626 
+MD5sum: 77d8b938403ad72387eb998e1ac6263b
+SHA1: ca1a8580d4fce0633bbef469dc79e914af488f66
+SHA256: d7b3decd4d6b95e5052afe6cb4b030ced20aa55f08a53c05107c5d6f1566c18a
+Description: Ripndip icon for Zeppelin!
+Name: Ripndip Icon for Zeppelin
+Author: NorthHopper <hopperplaysminecraft@gmail>
