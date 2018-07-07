@@ -3,7 +3,7 @@ Version: 1.0
 Section: Zeppelin Icons
 Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, zeppelin
+Depends: mobilesubstrate
 Filename: debs//Nermal.deb
 Size: 13426 
 MD5sum: c43415aae4d1a77a31c87535c3ff50af
