@@ -4,7 +4,7 @@ Section: Zeppelin Icons
 Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: debs//Nermal.deb
+Filename: debs/Nermal.deb
 Size: 13426
 MD5sum: c43415aae4d1a77a31c87535c3ff50af
 SHA1: deebba101eff85f43bb6a1d4fb92f7b1ba811672
@@ -19,7 +19,7 @@ Section: Zeppelin Icons
 Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: debs//Ripndip.deb
+Filename: debs/Ripndip.deb
 Size: 12626
 MD5sum: 77d8b938403ad72387eb998e1ac6263b
 SHA1: ca1a8580d4fce0633bbef469dc79e914af488f66
@@ -34,7 +34,7 @@ Section: Zeppelin Icons
 Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: debs//WeOutHereAlien.deb
+Filename: debs/WeOutHereAlien.deb
 Size: 4276
 MD5sum: 4c790be04feeb3aec5c12e270e409adf
 SHA1: 24d3873cdcc5b47e2a18dd9555e52397df445f45
@@ -49,7 +49,7 @@ Section: Tweaks
 Maintainer: NorthHopper <hopperplaysminecraft@gmail.com>
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: debs//inapp.deb
+Filename: debs/inapp.deb
 Size: 2894
 MD5sum: c141e59c8de5e743184946c7bb8c51a8
 SHA1: 97bf95d6de75e0a3ef41025527b5337e768660df
@@ -57,3 +57,4 @@ SHA256: 608ff7889fc9239559a2de8cf5ea93e7baadb9a58b85d8257e617fee2d7251ac
 Description: A tweak that allows for free in app purchases in (most) apps!
 Name: Local IAP Store 11
 Author: Unkown
+
